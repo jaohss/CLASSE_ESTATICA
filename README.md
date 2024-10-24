@@ -44,4 +44,4 @@ Ferramentas utilizadas e bibliotecas
 ## Diagrama
 * **Diagrama de classes para ConversorUnidades**
 
-![Diagrama de classes](\CLASSE_ESTATICA\diagrama\diagrama_conversorUnidades.PNG)
+![Diagrama de classes](diagrama_conversorUnidades.PNG)
