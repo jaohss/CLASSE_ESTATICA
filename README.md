@@ -43,5 +43,5 @@ Ferramentas utilizadas e bibliotecas
 
 ## Diagrama
 * **Diagrama de classes para ConversorUnidades**
-    ![Diagrama de classes](![Descrição do Diagrama](../diagrama/diagrama_coversorUnidades.png)
-)
+
+  ![Diagrama de classes](../diagrama/diagrama_coversorUnidades.png)
